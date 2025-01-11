@@ -1,6 +1,6 @@
 # To-Do List app
 
-this is a very cute todo app
+this is a very cute todo app build in react
 
 deployment: https://to-do-list-web-app-g8zr.onrender.com
 
